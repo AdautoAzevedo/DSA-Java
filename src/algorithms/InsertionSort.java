@@ -14,8 +14,6 @@ public class InsertionSort {
                 j--;
             }
             array[j+1] = key;
-           for (int j2 = 0; j2 < array.length; j2++) {
-           }
         }
 
         return array;
