@@ -48,6 +48,7 @@ public class MergeSort {
             array[k++] = right[j++];
         }
     }
+    
     public static void main(String[] args) {
         int[] array = {30,50,20,60,40,10};
   
